@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppMixer", "WinFormsAppMixer\WinFormsAppMixer.csproj", "{B9EB2F40-6E54-4CED-B04C-ABA8C75FD828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9EB2F40-6E54-4CED-B04C-ABA8C75FD828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EB2F40-6E54-4CED-B04C-ABA8C75FD828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9EB2F40-6E54-4CED-B04C-ABA8C75FD828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EB2F40-6E54-4CED-B04C-ABA8C75FD828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB4EF656-AA00-4D7E-B249-62EF4EBC5558}
+	EndGlobalSection
+EndGlobal
